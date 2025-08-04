@@ -28,14 +28,14 @@
     "clsx": "^2.1.1",
     "lucide-react": "^0.526.0",
     "react": "^19.1.0",
-    "react-dom": "^19.1.0",
+    "react-dom": "^19.1.1",
     "react-hot-toast": "^2.5.2",
     "react-use": "^17.6.0"
   },
   "devDependencies": {
     "@types/node": "^24.1.0",
     "@types/react": "^19.1.8",
-    "@types/react-dom": "^19.1.6",
+    "@types/react-dom": "^19.1.7",
     "@typescript-eslint/eslint-plugin": "^8.37.0",
     "@typescript-eslint/parser": "^8.38.0",
     "@vitejs/plugin-react-swc": "^3.11.0",
